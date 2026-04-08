@@ -88,4 +88,6 @@ The output consists of:
 - Grad-CAM heatmap
 - Overlay of heatmap on the original MRI image
 
+<img width="955" height="456" alt="image" src="https://github.com/user-attachments/assets/f46fa38e-c767-4fdb-bf9b-2da9829e3ef8" />
+
   
